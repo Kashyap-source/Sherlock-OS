@@ -1,6 +1,8 @@
 # Sherlock-OS
 Light weight forensic OS
 
+![alt text](https://github.com/Kashyap-source/Sherlock-OS/blob/main/Image/Final%20look%20.png)
+
 **1.	Introduction:**
 
 The Forensics-Based Linux Kernel (FBK) is a specialized version of the Linux kernel, meticulously engineered to bolster digital forensic investigations. In an era where cyber threats and digital crimes are increasingly sophisticated, FBK provides investigators with a robust, integrated platform to conduct thorough analyses of digital evidence. By embedding advanced forensic capabilities directly into the kernel, FBK eliminates the need for multiple disparate tools, streamlining the investigative process and enhancing the accuracy and reliability of forensic results.
