@@ -1,6 +1,8 @@
 # Sherlock-OS
 Light weight forensic OS
 
+Link to download the image : https://drive.google.com/drive/folders/1SZ6rHQqkPqYgtBBXh0EaJKgC0o9X_LbW?usp=sharing
+
 ![alt text](https://github.com/Kashyap-source/Sherlock-OS/blob/main/Image/Final%20look%20.png)
 
 **1.	Introduction:**
